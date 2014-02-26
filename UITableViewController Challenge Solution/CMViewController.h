@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CMViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Colin McKinstry on 26/02/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface CMViewController : UITableViewController
 
 @end
